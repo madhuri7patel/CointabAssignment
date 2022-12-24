@@ -1,0 +1,18 @@
+* {
+  background-color: aqua;
+}
+
+.page-btn {
+  margin-right: 0.5rem;
+  border-radius: 10px;
+  border: solid 1px #ececec;
+  padding: 0.5rem 0.75rem;
+}
+
+.page-btn:hover {
+  cursor: pointer;
+}
+
+.page-btn:disabled {
+  background-color: #ececec;
+}
